@@ -4,7 +4,7 @@
     "drawFrames": false,
     "drawCollisions": true,
     "mergeSTLs": "visual",
-    "simplifySTLs": true,
+    "simplifySTLs": "visual",
     "maxSTLSize": 3,
     "useScads": true,
 
